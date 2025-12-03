@@ -25,8 +25,6 @@ Accurate segmentation is essential for diagnosis, treatment planning, and patien
 ---
 
 
----
-
 ## 📊 Dataset
 
 - **Source:** Kaggle — Brain Tumor Image Semantic Segmentation  
