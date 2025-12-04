@@ -110,12 +110,6 @@ The model achieves strong segmentation accuracy on the test set:
 
 ---
 
-## 🧪 Example Output (Predicted Masks)
-
-_Add your example images here when committing to GitHub._
-
----
-
 ## 🧩 Future Work
 
 - Experiment with:
